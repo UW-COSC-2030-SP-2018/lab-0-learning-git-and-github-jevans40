@@ -7,4 +7,4 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
-![Alt text](lab-0-learning-git-and-github-jevans40/proof/Capture.PNG?raw=true "Title")
+![Alt text](proof/Capture.PNG?raw=true "Title")
